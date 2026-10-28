@@ -1,0 +1,37 @@
+[
+  {
+    "proposal": "A",
+    "rank": 1,
+    "status": "ranked",
+    "score": 64.62,
+    "reason": "Passed both mandatory checks; strong experience, full team plan, and 12-week timeline produce the highest total."
+  },
+  {
+    "proposal": "B",
+    "rank": null,
+    "status": "ineligible",
+    "score": null,
+    "reason": "The bidder's own Ontario electrical contractor licence is not confirmed; its proposed subcontractor is unconfirmed until after award."
+  },
+  {
+    "proposal": "C",
+    "rank": 3,
+    "status": "ranked",
+    "score": 51.66,
+    "reason": "Passed both mandatory checks; reviewer-confirmed evidence covers two of four team-plan items, and its 14-week schedule places it third."
+  },
+  {
+    "proposal": "D",
+    "rank": null,
+    "status": "flagged",
+    "score": null,
+    "reason": "Passed both mandatory checks, but the completion schedule is unstated, so the timeline score and total require reviewer clarification."
+  },
+  {
+    "proposal": "E",
+    "rank": 2,
+    "status": "ranked",
+    "score": 58.5,
+    "reason": "Passed both mandatory checks and provides a strong team, safety, monitoring, and warranty plan; it ranks behind A on the configured weighted total."
+  }
+]
